@@ -1,0 +1,14 @@
+/Users/IrisLiang/Documents/2026/26BE003_OCW_Cs/CSharpPractice/03_FlowControl/UsingFor/UsingFor/bin/Debug/net10.0/UsingFor
+/Users/IrisLiang/Documents/2026/26BE003_OCW_Cs/CSharpPractice/03_FlowControl/UsingFor/UsingFor/bin/Debug/net10.0/UsingFor.deps.json
+/Users/IrisLiang/Documents/2026/26BE003_OCW_Cs/CSharpPractice/03_FlowControl/UsingFor/UsingFor/bin/Debug/net10.0/UsingFor.runtimeconfig.json
+/Users/IrisLiang/Documents/2026/26BE003_OCW_Cs/CSharpPractice/03_FlowControl/UsingFor/UsingFor/bin/Debug/net10.0/UsingFor.dll
+/Users/IrisLiang/Documents/2026/26BE003_OCW_Cs/CSharpPractice/03_FlowControl/UsingFor/UsingFor/bin/Debug/net10.0/UsingFor.pdb
+/Users/IrisLiang/Documents/2026/26BE003_OCW_Cs/CSharpPractice/03_FlowControl/UsingFor/UsingFor/obj/Debug/net10.0/UsingFor.GeneratedMSBuildEditorConfig.editorconfig
+/Users/IrisLiang/Documents/2026/26BE003_OCW_Cs/CSharpPractice/03_FlowControl/UsingFor/UsingFor/obj/Debug/net10.0/UsingFor.AssemblyInfoInputs.cache
+/Users/IrisLiang/Documents/2026/26BE003_OCW_Cs/CSharpPractice/03_FlowControl/UsingFor/UsingFor/obj/Debug/net10.0/UsingFor.AssemblyInfo.cs
+/Users/IrisLiang/Documents/2026/26BE003_OCW_Cs/CSharpPractice/03_FlowControl/UsingFor/UsingFor/obj/Debug/net10.0/UsingFor.csproj.CoreCompileInputs.cache
+/Users/IrisLiang/Documents/2026/26BE003_OCW_Cs/CSharpPractice/03_FlowControl/UsingFor/UsingFor/obj/Debug/net10.0/UsingFor.dll
+/Users/IrisLiang/Documents/2026/26BE003_OCW_Cs/CSharpPractice/03_FlowControl/UsingFor/UsingFor/obj/Debug/net10.0/refint/UsingFor.dll
+/Users/IrisLiang/Documents/2026/26BE003_OCW_Cs/CSharpPractice/03_FlowControl/UsingFor/UsingFor/obj/Debug/net10.0/UsingFor.pdb
+/Users/IrisLiang/Documents/2026/26BE003_OCW_Cs/CSharpPractice/03_FlowControl/UsingFor/UsingFor/obj/Debug/net10.0/UsingFor.genruntimeconfig.cache
+/Users/IrisLiang/Documents/2026/26BE003_OCW_Cs/CSharpPractice/03_FlowControl/UsingFor/UsingFor/obj/Debug/net10.0/ref/UsingFor.dll
