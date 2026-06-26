@@ -12,3 +12,4 @@
 /Users/IrisLiang/Documents/2026/26BE003_OCW_Cs/CSharpPractice/03_FlowControl/UsingFor/UsingFor/obj/Debug/net10.0/UsingFor.pdb
 /Users/IrisLiang/Documents/2026/26BE003_OCW_Cs/CSharpPractice/03_FlowControl/UsingFor/UsingFor/obj/Debug/net10.0/UsingFor.genruntimeconfig.cache
 /Users/IrisLiang/Documents/2026/26BE003_OCW_Cs/CSharpPractice/03_FlowControl/UsingFor/UsingFor/obj/Debug/net10.0/ref/UsingFor.dll
+/Users/IrisLiang/Documents/2026/26BE003_OCW_Cs/CSharpPractice/03_FlowControl/UsingFor/UsingFor/obj/Debug/net10.0/UsingFor.sourcelink.json

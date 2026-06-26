@@ -44,41 +44,78 @@ namespace UsingFor
             // Debug.Assert(i == 101);
             // // i==101就會跳出來
 
-            // // 04_九九乘法表_Mtable
+            // 04_九九乘法表_Mtable
             int i;
             int j;
 
-            // // Array MTable = [i, j];
-            // // XX no need for Array
+            // Array MTable = [i, j];
+            // XX no need for Array
 
-            // int MVaule = 0;
+            int MVaule = 0;
 
-            // for (i = 1; i <= 9; i++)
+            for (i = 1; i <= 9; i++)
+            {
+                for (j = 1; j <= 9; j++)
+                {
+                    MVaule = i * j;
+                    // MVaule += i*j; -> XX MVaule will change
+                    // Console.WriteLine(MVaule);
+                    Console.WriteLine($"{i}x{j}={MVaule}");
+                    // forget ${} -> search
+                }
+                // Console.WriteLine(MVaule); -> start from 9
+            }
+
+            // // 05_1加到100的while寫法
+            // int sum = 0;
+            // int i = 1;
+            // while (i <= 100)
             // {
-            //     for (j = 1; j <= 9; j++)
+            //     sum + -i;
+            //     ++i;
+            // }
+            // Console.WriteLine("1~100的加總等於" + sum);
+
+            // // 06_1加到100的do-while寫法
+            // int sum = 0;
+            // int i = 1;
+
+            // do
+            // {
+            //     sum += i;
+            //     ++i;
+            // } while (i <= 100);
+
+            // Console.WriteLine("1~100的加總等於" + sum);
+
+
+            // // 07_前10組畢氏數
+            // int x;
+            // int y;
+            // int z;
+            // int n = 0;
+
+            // for (x = 1; x <= 100; ++x)
+            // {
+            //     for (y = x; y <= 100; ++y)
             //     {
-            //         MVaule = i * j;
-            //         // MVaule += i*j; -> XX MVaule will change
-            //         // Console.WriteLine(MVaule);
-            //         Console.WriteLine($"{i}x{j}={MVaule}");
-            //         // forget ${} -> search
+            //         for (z = 1; z <= 150; ++z)
+            //         {
+            //             if (x * x + y * y == z * z)
+            //             {
+            //                 ++n;
+            //                 if (n <= 10)
+            //                 {
+            //                     Console.WriteLine(
+            //                     "{0}: {1}*{1} + {2}*{2} = {3}*{3}",
+            //                     n, x, y, z);
+            //                 }
+            //             }
+            //         }
             //     }
-            //     // Console.WriteLine(MVaule); -> start from 9
             // }
 
-            for (i = 1; i < 10; ++i)
-            {
-                for (j = 1; j < 10; ++j)
-                {
-                    Console.Write("{0}*{1}={2} ",
-                    i, j, i * j);
-                }
-                // 印完一組便換行
-                Console.WriteLine();
-            }
 
         }
     }
 }
-
-
